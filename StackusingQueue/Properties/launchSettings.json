@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StackusingQueue": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
